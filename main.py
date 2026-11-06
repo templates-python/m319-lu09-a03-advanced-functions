@@ -1,3 +1,6 @@
+"""Division exercise: compute quotient and remainder."""
+
+
 def div(dividend, divisor):
     """
     TODO
